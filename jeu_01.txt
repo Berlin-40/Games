@@ -1,0 +1,25 @@
+//Exercice 1.7.
+src$ java -cp ../build:../lib/gamestests.jar games.nim.Main
+
+Entré le nom du premier joueur 
+bob
+Entré le nom du deuxieme joueur 
+toto
+Entré la taille du tas
+5
+Entré le maximal d'allumettes que l'on peut retirer
+3
+bob entrer un coup
+2
+Il reste 3 allumettes
+toto entrer un coup
+1
+Il reste 2 allumettes
+bob entrer un coup
+3
+Le dernier coup est invavlide!
+Entré un nombre positif inferieur au nombre d'allumettes que vous pouvez jouer
+bob entrer un coup
+2
+Il reste 0 allumettes
+****Victoire,toto a gagné !****

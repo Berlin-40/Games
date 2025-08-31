@@ -1,0 +1,83 @@
+src$ java -cp ../build games.factoredgames.Main1
+Entrez le nom du premier joueur :
+mom
+Entrez le nom du deuxième joueur :
+bob
+  0 1 2
+0 . . .
+1 . . .
+2 . . .
+
+C'est à mom de jouer. 
+Votre coup :
+Coup :
+1
+  0 1 2
+0 . O .
+1 . . .
+2 . . .
+
+C'est à bob de jouer. 
+Votre coup :
+Coup :
+2
+  0 1 2
+0 . O X
+1 . . .
+2 . . .
+
+C'est à mom de jouer. 
+Votre coup :
+Coup :
+3
+  0 1 2
+0 . O X
+1 O . .
+2 . . .
+
+C'est à bob de jouer. 
+Votre coup :
+Coup :
+0
+  0 1 2
+0 X O X
+1 O . .
+2 . . .
+
+C'est à mom de jouer. 
+Votre coup :
+Coup :
+6
+  0 1 2
+0 X O X
+1 O . .
+2 O . .
+
+C'est à bob de jouer. 
+Votre coup :
+Coup :
+5
+  0 1 2
+0 X O X
+1 O . X
+2 O . .
+
+C'est à mom de jouer. 
+Votre coup :
+Coup :
+4
+  0 1 2
+0 X O X
+1 O O X
+2 O . .
+
+C'est à bob de jouer. 
+Votre coup :
+Coup :
+8
+  0 1 2
+0 X O X
+1 O O X
+2 O . X
+
+*** Victoire ! bob a gagné ! ***

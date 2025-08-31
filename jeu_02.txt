@@ -1,0 +1,90 @@
+
+
+java -cp ../build:../lib/gamestests.jar games.tictactoe.Main
+Entrer le nom du premier joueur
+bob
+Entrer le nom du deuxieme joueur
+toto
+  0 1 2
+0 . . .
+1 . . .
+2 . . .
+
+C'est à bob de jouer 
+Votre coup:
+_rangée ?(0 à 2)
+0
+_colonne ?(0 à 2)
+1
+  0 1 2
+0 . O .
+1 . . .
+2 . . .
+
+C'est à toto de jouer 
+Votre coup:
+_rangée ?(0 à 2)
+1
+_colonne ?(0 à 2)
+1
+  0 1 2
+0 . O .
+1 . X .
+2 . . .
+
+C'est à bob de jouer 
+Votre coup:
+_rangée ?(0 à 2)
+0
+_colonne ?(0 à 2)
+2
+  0 1 2
+0 . O O
+1 . X .
+2 . . .
+
+C'est à toto de jouer 
+Votre coup:
+_rangée ?(0 à 2)
+0
+_colonne ?(0 à 2)
+0
+  0 1 2
+0 X O O
+1 . X .
+2 . . .
+
+C'est à bob de jouer 
+Votre coup:
+_rangée ?(0 à 2)
+2
+_colonne ?(0 à 2)
+2
+  0 1 2
+0 X O O
+1 . X .
+2 . . O
+
+C'est à toto de jouer 
+Votre coup:
+_rangée ?(0 à 2)
+1
+_colonne ?(0 à 2)
+0
+  0 1 2
+0 X O O
+1 X X .
+2 . . O
+
+C'est à bob de jouer 
+Votre coup:
+_rangée ?(0 à 2)
+1
+_colonne ?(0 à 2)
+2
+  0 1 2
+0 X O O
+1 X X O
+2 . . O
+
+***Victoirebob a gagné !***

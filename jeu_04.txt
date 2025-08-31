@@ -1,0 +1,40 @@
+src$ java -cp ../build games.plays.Main1
+Bienvenue dans la partie de Nim ! Il y a 13 allumettes au total. Chaque joueur devra en retirer entre 1 et 3 à chaque tour.
+Bonne chance, et que le meilleur stratège l’emporte !
+C'est à Moi , Choisissez un coup parmi les suivants : [1, 2, 3]
+2
+Moi a retiré 2 allumettes.
+
+Il reste 11 allumettes
+
+games.players.NegamaxPlayer@448139f0 a retiré 2 allumettes.
+
+Il reste 9 allumettes
+
+C'est à Moi , Choisissez un coup parmi les suivants : [1, 2, 3]
+2
+Moi a retiré 2 allumettes.
+
+Il reste 7 allumettes
+
+games.players.NegamaxPlayer@448139f0 a retiré 2 allumettes.
+
+Il reste 5 allumettes
+
+C'est à Moi , Choisissez un coup parmi les suivants : [1, 2, 3]
+2
+Moi a retiré 2 allumettes.
+
+Il reste 3 allumettes
+
+games.players.NegamaxPlayer@448139f0 a retiré 2 allumettes.
+
+Il reste 1 allumettes
+
+C'est à Moi , Choisissez un coup parmi les suivants : [1]
+1
+Moi a retiré 1 allumettes.
+
+Il reste 0 allumettes
+
+**** Victoire, games.players.NegamaxPlayer@448139f0 a gagné ! ****

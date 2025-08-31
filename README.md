@@ -1,6 +1,10 @@
-# Games
+# Games 🎮
 
+Projet Java regroupant plusieurs jeux classiques (Nim, TicTacToe, etc.) ainsi que des implémentations génériques et des variantes.
 
+---
+
+## 📂 Structure du projet
 .
 └── games
     ├── factoredgames
